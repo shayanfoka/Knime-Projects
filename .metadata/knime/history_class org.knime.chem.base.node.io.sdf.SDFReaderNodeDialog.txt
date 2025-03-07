@@ -1,0 +1,2 @@
+/Users/shayanhatami/medical infromatic/Cheminfo/ChIn-2425-Project_Hatami_Shayan/chin-qspr-dataset.sdf
+/Users/shayanhatami/medical infromatic/Cheminfo/project/chin-qspr-dataset.sdf

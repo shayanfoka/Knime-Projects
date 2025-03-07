@@ -1,0 +1,5 @@
+bundledCondaEnvPath=org_knime_pythonscripting
+eclipse.preferences.version=1
+python3CondaEnvironmentDirectoryPath=/Users/shayanhatami/miniconda3/envs/CheminformaticII
+python3Path=python3
+pythonEnvironmentType=conda

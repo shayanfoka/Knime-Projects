@@ -1,0 +1,22 @@
+{
+  "version" : "5.4.0.v202411251357",
+  "projects" : [ {
+    "name" : "Cheminfo_Project",
+    "active" : true,
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "relativePath" : "Cheminfo_Project"
+    }
+  } ],
+  "mostRecentlyUsedProjects" : [ {
+    "name" : "Cheminfo_Project",
+    "timeUsed" : "2025-01-17T11:54:55.357364+01:00",
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "projectType" : "WORKFLOW",
+      "relativePath" : "Cheminfo_Project"
+    }
+  } ]
+}
