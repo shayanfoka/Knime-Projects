@@ -33,5 +33,3 @@ To replicate and run this project, the following software and libraries are requ
 - **KNIME Python Integration**
 - **KNIME RDKit Nodes**
 
-## File Structure
-
